@@ -6,4 +6,8 @@
   .f-text {
     margin-top: 50px !important;
   }
+
+  .card-section {
+    height: 800px;
+  }
 }

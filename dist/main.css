@@ -51,7 +51,7 @@ p {
   display: grid;
   gap: 30px;
   margin: 40px;
-  transition: all 0.5s ease;
+  transition: all 1s ease-out;
 }
 
 .buttons a {
@@ -99,7 +99,7 @@ p {
 
 .buttons a:hover {
   background-color: #ffc900;
-  transform: scale(1.1);
+  transform: translateY(7px);
 }
 
 .f-text {
