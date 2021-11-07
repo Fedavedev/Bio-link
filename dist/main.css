@@ -3,7 +3,7 @@
 :root {
   --bgColor: #e6d8c1;
   --btnColor: #fdc700;
-  --blackColor: #000027;
+  --blackColor: #121212;
 }
 
 * {
@@ -51,13 +51,13 @@ p {
   display: grid;
   gap: 30px;
   margin: 40px;
-  transition: all 1s ease-out;
+  transition: all 5s ease-in;
 }
 
 .buttons a {
   color: var(--blackColor);
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   text-decoration: none;
   background-color: var(--btnColor);
