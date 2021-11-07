@@ -1,0 +1,9 @@
+@media (max-width: 800px) {
+  img {
+    width: 30% !important;
+  }
+
+  .f-text {
+    margin-top: 50px !important;
+  }
+}
