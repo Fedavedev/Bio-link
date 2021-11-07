@@ -11,4 +11,8 @@
   .card-section {
     height: 800px;
   }
+
+  .buttons a {
+    white-space: nowrap;
+  }
 }
